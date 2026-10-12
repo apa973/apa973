@@ -6,8 +6,6 @@
 
 # ようこそ &nbsp;·&nbsp; WELCOME TO MY PORTOFOLIO
 
-**Portofolio web interaktif bergaya menu game *Persona 5 Royal***
-
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/▶_MASUK-portofolio--shin.page.gd-D5001C?style=for-the-badge&labelColor=0A0A0A)](https://portofolio-shin.page.gd)
