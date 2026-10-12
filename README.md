@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Raditya Putra Aulia - Portfolio System" width="100%"/>
+<img src="banner.svg" alt="Raditya Putra Aulia - Portfolio System" width="100%"/>
 
 <br/>
 
@@ -12,15 +12,15 @@
 
 <br/>
 
-<img src="assets/boot.svg" alt="boot sequence" width="100%"/>
+<img src="boot.svg" alt="boot sequence" width="100%"/>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="assets/about.svg" alt="cat about.md" width="100%"/>
+<img src="about.svg" alt="cat about.md" width="100%"/>
 
 Siswa **SMKTI Dwiguna** jurusan **PPLG** (Program Perangkat Lunak dan Gim) yang berfokus pada **Front-end Development** dan **UI/UX Design** tingkat pemula.
 
@@ -39,15 +39,15 @@ Saya terjun ke dunia teknologi karena tertarik pada **pengembangan game** dan me
 }
 ```
 
-<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
+<div align="center"><img src="divider.svg" alt="" width="100%"/></div>
 
 <br/>
 
-<img src="assets/skills.svg" alt="ls skills/" width="100%"/>
+<img src="skills.svg" alt="ls skills/" width="100%"/>
 
 <div align="center">
 
-<img src="assets/ticker.svg" alt="skills ticker" width="100%"/>
+<img src="ticker.svg" alt="skills ticker" width="100%"/>
 
 </div>
 
@@ -59,11 +59,11 @@ Saya terjun ke dunia teknologi karena tertarik pada **pengembangan game** dan me
 | 🎨 **Design** | `Web Design` `UI/UX` |
 | 🧠 **Lainnya** | `Fast Adaptation` `Deep Learning` `Microsoft Office` `Bahasa Jepang (dasar)` |
 
-<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
+<div align="center"><img src="divider.svg" alt="" width="100%"/></div>
 
 <br/>
 
-<img src="assets/projects.svg" alt="run projects" width="100%"/>
+<img src="projects.svg" alt="run projects" width="100%"/>
 
 <table>
 <tr>
@@ -116,11 +116,11 @@ Game edukasi visual novel untuk **belajar bahasa Jepang dasar** secara interakti
 </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
+<div align="center"><img src="divider.svg" alt="" width="100%"/></div>
 
 <br/>
 
-<img src="assets/contact.svg" alt="contact --open" width="100%"/>
+<img src="contact.svg" alt="contact --open" width="100%"/>
 
 <div align="center">
 
