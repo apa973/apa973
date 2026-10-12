@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Raditya Putra Aulia - Portfolio System" width="100%"/>
+<img src="assets/banner.svg" alt="Raditya Putra Aulia - Portfolio System" width="100%"/>
 
 <br/>
 
@@ -10,26 +10,17 @@
 
 [**⚡ Live Portfolio**](https://portofolio-shin.page.gd) &nbsp;·&nbsp; [**📚 NatuBook**](https://natubook.page.gd) &nbsp;·&nbsp; [**🐙 GitHub**](https://github.com/apa973/shin) &nbsp;·&nbsp; [**✉️ Email**](mailto:Shin2345zxrx@gmail.com)
 
+<br/>
+
+<img src="assets/boot.svg" alt="boot sequence" width="100%"/>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
 </div>
 
 <br/>
 
-## `> boot --sequence`
-
-```text
-[ OK ]  Loading profile .............. Raditya Putra Aulia
-[ OK ]  Mounting education ........... SMKTI Dwiguna · PPLG
-[ OK ]  Starting module .............. Front-end Development
-[ OK ]  Starting module .............. UI/UX Design (beginner)
-[ OK ]  Starting module .............. Game Development (interest)
-[ OK ]  Language pack ................ ID · JP (basic)
-[ OK ]  Network ...................... Depok, Jawa Barat
->>>     System ready. Welcome. ようこそ
-```
-
----
-
-## `> cat about.md`
+<img src="assets/about.svg" alt="cat about.md" width="100%"/>
 
 Siswa **SMKTI Dwiguna** jurusan **PPLG** (Program Perangkat Lunak dan Gim) yang berfokus pada **Front-end Development** dan **UI/UX Design** tingkat pemula.
 
@@ -48,21 +39,15 @@ Saya terjun ke dunia teknologi karena tertarik pada **pengembangan game** dan me
 }
 ```
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
-## `> ls skills/`
+<br/>
+
+<img src="assets/skills.svg" alt="ls skills/" width="100%"/>
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-Dasar-5CE1E6?style=for-the-badge&logo=html5&logoColor=white&labelColor=0B1220)
-![CSS](https://img.shields.io/badge/CSS-Dasar-38B6FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0B1220)
-![PHP](https://img.shields.io/badge/PHP-Dasar-5CE1E6?style=for-the-badge&logo=php&logoColor=white&labelColor=0B1220)
-![Web Design](https://img.shields.io/badge/Web-Design-38B6FF?style=for-the-badge&labelColor=0B1220)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-5CE1E6?style=for-the-badge&logo=figma&logoColor=white&labelColor=0B1220)
-![Office](https://img.shields.io/badge/Microsoft-Office-38B6FF?style=for-the-badge&labelColor=0B1220)
-![Japanese](https://img.shields.io/badge/Bahasa_Jepang-Dasar-5CE1E6?style=for-the-badge&labelColor=0B1220)
-![Adapt](https://img.shields.io/badge/Fast-Adaptation-38B6FF?style=for-the-badge&labelColor=0B1220)
-![DL](https://img.shields.io/badge/Deep-Learning-5CE1E6?style=for-the-badge&labelColor=0B1220)
+<img src="assets/ticker.svg" alt="skills ticker" width="100%"/>
 
 </div>
 
@@ -72,10 +57,13 @@ Saya terjun ke dunia teknologi karena tertarik pada **pengembangan game** dan me
 | ⚙️ **Back-end** | `PHP` |
 | 🎮 **Game** | `Ren'Py` `Python` |
 | 🎨 **Design** | `Web Design` `UI/UX` |
+| 🧠 **Lainnya** | `Fast Adaptation` `Deep Learning` `Microsoft Office` `Bahasa Jepang (dasar)` |
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
-## `> run projects`
+<br/>
+
+<img src="assets/projects.svg" alt="run projects" width="100%"/>
 
 <table>
 <tr>
@@ -128,9 +116,11 @@ Game edukasi visual novel untuk **belajar bahasa Jepang dasar** secara interakti
 </tr>
 </table>
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
-## `> contact --open`
+<br/>
+
+<img src="assets/contact.svg" alt="contact --open" width="100%"/>
 
 <div align="center">
 
@@ -140,8 +130,6 @@ Game edukasi visual novel untuk **belajar bahasa Jepang dasar** secara interakti
 
 <br/>
 
-```text
-$ echo "Terima kasih sudah berkunjung · ありがとうございます"
-```
+<img src="assets/footer.svg" alt="Terima kasih sudah berkunjung" width="100%"/>
 
 </div>
