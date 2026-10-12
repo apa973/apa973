@@ -130,6 +130,6 @@ Game edukasi visual novel untuk **belajar bahasa Jepang dasar** secara interakti
 
 <br/>
 
-<img src="assets/footer.svg" alt="Terima kasih sudah berkunjung" width="100%"/>
+<img src="footer.svg" alt="Terima kasih sudah berkunjung" width="100%"/>
 
 </div>
