@@ -8,7 +8,7 @@
 ![focus](https://img.shields.io/badge/FOCUS-FRONT--END_·_UI%2FUX-5CE1E6?style=for-the-badge&labelColor=0B1220)
 ![game](https://img.shields.io/badge/INTEREST-GAME_DEV-38B6FF?style=for-the-badge&labelColor=0B1220)
 
-[**⚡ Live Portfolio**](https://portofolio-shin.page.gd) &nbsp;·&nbsp; [**📚 NatuBook**](https://natubook.page.gd) &nbsp;·&nbsp; <a href="https://github.com/apa973"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;·&nbsp; [**✉️ Email**](mailto:Shin2345zxrx@gmail.com)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portofolio-shin.page.gd) &nbsp;·&nbsp; [![NatuBook](https://img.shields.io/badge/NatuBook-4CAF50?style=for-the-badge&logo=gitbook&logoColor=white)](https://natubook.page.gd) &nbsp;·&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apa973/shin) &nbsp;·&nbsp; [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shin2345zxrx@gmail.com)
 
 <img src="boot.svg" alt="boot sequence" width="100%"/>
 
