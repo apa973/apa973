@@ -8,7 +8,7 @@
 ![focus](https://img.shields.io/badge/FOCUS-FRONT--END_·_UI%2FUX-5CE1E6?style=for-the-badge&labelColor=0B1220)
 ![game](https://img.shields.io/badge/INTEREST-GAME_DEV-38B6FF?style=for-the-badge&labelColor=0B1220)
 
-[**⚡ Live Portfolio**](https://portofolio-shin.page.gd) &nbsp;·&nbsp; [**📚 NatuBook**](https://natubook.page.gd) &nbsp;·&nbsp; [**<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> (https://github.com/apa973/shin)] &nbsp;·&nbsp; [**✉️ Email**](mailto:Shin2345zxrx@gmail.com)
+[**⚡ Live Portfolio**](https://portofolio-shin.page.gd) &nbsp;·&nbsp; [**📚 NatuBook**](https://natubook.page.gd) &nbsp;·&nbsp; <a href="https://github.com/apa973/shin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;·&nbsp; [**✉️ Email**](mailto:Shin2345zxrx@gmail.com)
 
 <br/>
 
