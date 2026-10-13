@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="kangel.svg" alt="Raditya Putra Aulia - Portfolio System" width="100%"/>
+<img src="banner.svg" alt="Raditya Putra Aulia - Portfolio System" width="100%"/>
 
 <br/>
 
