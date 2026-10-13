@@ -112,6 +112,8 @@ Game edukasi visual novel untuk **belajar bahasa Jepang dasar** secara interakti
 
 `Ren'Py` `Python`
 
+**[→ Game Visual Novel](https://www.mediafire.com/file/4cmxbp6wmoisar6/LearningJapaneseLanguage-1.0-dists.zip/file)**
+
 </td>
 </tr>
 </table>
