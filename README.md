@@ -99,6 +99,7 @@ Perpustakaan digital **inklusif**.
 Website profil sekolah yang **cepat dan transparan**.
 
 `PHP` `HTML` `Tailwind CSS` `JavaScript`
+**[→ github.com/apa973/arknighttech-school](https://github.com/apa973/arknighttech-school)**
 
 </td>
 <td width="50%" valign="top">
