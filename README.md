@@ -86,7 +86,7 @@ Perpustakaan digital **inklusif**.
 
 `PHP` `HTML` `Tailwind CSS` `JavaScript`
 
-**[→ natubook.page.gd](https://natubook.page.gd)**
+**[→ natubook.page.gd](https://natu-book.page.gd)**
 
 </td>
 </tr>
